@@ -4,7 +4,7 @@
  * swap_ints - Exchange the values of two integers.
  * @a: Pointer to the first integer.
  * @b: Pointer to the second integer.
- * 
+ *
  * Utilizes a temporary variable to hold the value of the first integer,
  * enabling the swap of values between the two integers.
  */
